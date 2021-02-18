@@ -9,6 +9,7 @@ public class Data
     public int maxReposts = 0;
     public int TicksBetweenUpdate = 20;
     public float pullStrength;
+    public int pullers;
 
 
     public Data()
@@ -17,6 +18,8 @@ public class Data
         reposts = 0;
         maxReposts = 3;
         TicksBetweenUpdate = 50;
+        pullers = 1;
         pullStrength = 1;
-}
+
+    }
 }

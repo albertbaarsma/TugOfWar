@@ -1,0 +1,1596 @@
+fileFormatVersion: 2
+guid: 28092ee4883600c438250ffc5bc72275
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4944040758189267389
+    second: stick+Animals_0
+  - first:
+      213: 4099215084740416782
+    second: stick+Animals_1
+  - first:
+      213: -5127237699639209383
+    second: stick+Animals_2
+  - first:
+      213: 5742481069974609180
+    second: stick+Animals_3
+  - first:
+      213: 7136958921899449617
+    second: stick+Animals_4
+  - first:
+      213: -7611867702550182226
+    second: stick+Animals_5
+  - first:
+      213: 3138553682240082411
+    second: stick+Animals_6
+  - first:
+      213: -4944733634998555714
+    second: stick+Animals_7
+  - first:
+      213: -9167351014263449841
+    second: stick+Animals_8
+  - first:
+      213: 221592673160310438
+    second: stick+Animals_9
+  - first:
+      213: -8151226954849017811
+    second: stick+Animals_10
+  - first:
+      213: -5007485821487730199
+    second: stick+Animals_11
+  - first:
+      213: 6058876313732317442
+    second: stick+Animals_12
+  - first:
+      213: 7569403616415138773
+    second: stick+Animals_13
+  - first:
+      213: -4166030479854519438
+    second: stick+Animals_14
+  - first:
+      213: -3178950812611382165
+    second: stick+Animals_15
+  - first:
+      213: 959523258376895510
+    second: stick+Animals_16
+  - first:
+      213: 938784165659245903
+    second: stick+Animals_17
+  - first:
+      213: 6654041248353523792
+    second: stick+Animals_18
+  - first:
+      213: 8241707558496182090
+    second: stick+Animals_19
+  - first:
+      213: 3709554818383745611
+    second: stick+Animals_20
+  - first:
+      213: -8991483895771645032
+    second: stick+Animals_21
+  - first:
+      213: -192784841270593290
+    second: stick+Animals_22
+  - first:
+      213: 6670349727917666603
+    second: stick+Animals_23
+  - first:
+      213: 2922690842827298413
+    second: stick+Animals_24
+  - first:
+      213: -2298137119981636711
+    second: stick+Animals_25
+  - first:
+      213: -7490406743449960302
+    second: stick+Animals_26
+  - first:
+      213: -4027923063475509190
+    second: stick+Animals_27
+  - first:
+      213: 5728331353682590666
+    second: stick+Animals_28
+  - first:
+      213: 138220563878686164
+    second: stick+Animals_29
+  - first:
+      213: 7691804129853762829
+    second: stick+Animals_30
+  - first:
+      213: 1801080050628111062
+    second: stick+Animals_31
+  - first:
+      213: -700391840254320598
+    second: stick+Animals_32
+  - first:
+      213: -5180603783883331240
+    second: stick+Animals_33
+  - first:
+      213: 392024497629047919
+    second: stick+Animals_34
+  - first:
+      213: -7818948013970392966
+    second: stick+Animals_35
+  - first:
+      213: 3922583979709578425
+    second: stick+Animals_36
+  - first:
+      213: -8441688178353424465
+    second: stick+Animals_37
+  - first:
+      213: -1288381525941535439
+    second: stick+Animals_38
+  - first:
+      213: 8892737914073788542
+    second: stick+Animals_39
+  - first:
+      213: -184522235980625160
+    second: stick+Animals_40
+  - first:
+      213: 4329721646118057512
+    second: stick+Animals_41
+  - first:
+      213: -4052397544899053025
+    second: stick+Animals_42
+  - first:
+      213: 6355904450842279557
+    second: stick+Animals_43
+  - first:
+      213: -6292847881599993957
+    second: stick+Animals_44
+  - first:
+      213: -1870485324701890857
+    second: stick+Animals_45
+  - first:
+      213: -2552355198088956228
+    second: stick+Animals_46
+  - first:
+      213: 924838945170877004
+    second: stick+Animals_47
+  - first:
+      213: -190980171031499164
+    second: stick+Animals_48
+  - first:
+      213: 1757493499398763464
+    second: stick+Animals_49
+  - first:
+      213: 4804512672719217789
+    second: stick+Animals_50
+  - first:
+      213: -3023458668296433463
+    second: stick+Animals_51
+  - first:
+      213: -302634787384020123
+    second: stick+Animals_52
+  - first:
+      213: -7320086799594557155
+    second: stick+Animals_53
+  - first:
+      213: -251861600586053709
+    second: stick+Animals_54
+  - first:
+      213: 1719904783509969495
+    second: stick+Animals_55
+  - first:
+      213: -6514294376336032441
+    second: stick+Animals_56
+  - first:
+      213: -8682922887877088301
+    second: stick+Animals_57
+  - first:
+      213: -167547346539082948
+    second: stick+Animals_58
+  - first:
+      213: 44400182125714832
+    second: stick+Animals_59
+  - first:
+      213: -3252611324545986189
+    second: stick+Animals_60
+  - first:
+      213: 2504271119275173853
+    second: stick+Animals_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stick+Animals_0
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 636
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db99ceaffd2cc9440800000000000000
+      internalID: 4944040758189267389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_1
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 634
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0510e7a66653e830800000000000000
+      internalID: 4099215084740416782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_2
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 625
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952930a3a7468d8b0800000000000000
+      internalID: -5127237699639209383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_3
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 605
+        width: 53
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ddd31bb1461bf40800000000000000
+      internalID: 5742481069974609180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_4
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 616
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d1f5483529b0360800000000000000
+      internalID: 7136958921899449617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 595
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea64a3867a63d5690800000000000000
+      internalID: -7611867702550182226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_6
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 578
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11a6af1f16e8b20800000000000000
+      internalID: 3138553682240082411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_7
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 568
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb2cf015f6c06bb0800000000000000
+      internalID: -4944733634998555714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_8
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 560
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07928fb2d607c080800000000000000
+      internalID: -9167351014263449841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_9
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 560
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aeac88bc51431300800000000000000
+      internalID: 221592673160310438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 559
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20a2a8854601ee80800000000000000
+      internalID: -8151226954849017811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_11
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 556
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e13b681d26d18ab0800000000000000
+      internalID: -5007485821487730199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 560
+        width: 10
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2010b02f7e3751450800000000000000
+      internalID: 6058876313732317442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_13
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 566
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d34bf51c7ceb0960800000000000000
+      internalID: 7569403616415138773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 583
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b32d4e9594f26c0800000000000000
+      internalID: -4166030479854519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 566
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64fbd7241912e3d0800000000000000
+      internalID: -3178950812611382165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_16
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 575
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cb749d159e05d00800000000000000
+      internalID: 959523258376895510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_17
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 542
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d71ea893b370d00800000000000000
+      internalID: 938784165659245903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 558
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05898e0c247e75c50800000000000000
+      internalID: 6654041248353523792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 517
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f11d6ab5d606270800000000000000
+      internalID: 8241707558496182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 543
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b421a98047cfa7330800000000000000
+      internalID: 3709554818383745611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 502
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb2e42905d73380800000000000000
+      internalID: -8991483895771645032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 513
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f87cf15537135df0800000000000000
+      internalID: -192784841270593290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 512
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21f72c8cb7d19c50800000000000000
+      internalID: 6670349727917666603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 528
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66120326db7f8820800000000000000
+      internalID: 2922690842827298413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_25
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 520
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993fa5627706b10e0800000000000000
+      internalID: -2298137119981636711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 523
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2908971b0cabc0890800000000000000
+      internalID: -7490406743449960302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_27
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 521
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3860fa8051f918c0800000000000000
+      internalID: -4027923063475509190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 522
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbbbf3240f1f7f40800000000000000
+      internalID: 5728331353682590666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_29
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 518
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda4aadede0be100800000000000000
+      internalID: 138220563878686164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_30
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 509
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0de0d96a17ceba60800000000000000
+      internalID: 7691804129853762829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_31
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 503
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da2bb573c8bef810800000000000000
+      internalID: 1801080050628111062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_32
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 473
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a202f060555b746f0800000000000000
+      internalID: -700391840254320598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_33
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 473
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e69b7e4cca18b0800000000000000
+      internalID: -5180603783883331240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_34
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 465
+        width: 11
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c2e6c1430c07500800000000000000
+      internalID: 392024497629047919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 488
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787c0635348d7390800000000000000
+      internalID: -7818948013970392966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_36
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 488
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3a38c851df6630800000000000000
+      internalID: 3922583979709578425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 424
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa731a8e35919da80800000000000000
+      internalID: -8441688178353424465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 411
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d341b04dfbe1ee0800000000000000
+      internalID: -1288381525941535439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_39
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 409
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e703401640a596b70800000000000000
+      internalID: 8892737914073788542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 398
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac6370102707df0800000000000000
+      internalID: -184522235980625160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_41
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 380
+        width: 148
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826bf25b5e2461c30800000000000000
+      internalID: 4329721646118057512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_42
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 332
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a70a747edf2c7c0800000000000000
+      internalID: -4052397544899053025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_43
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 317
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e37ca4c65b43850800000000000000
+      internalID: 6355904450842279557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_44
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 342
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97b9af41305ba8a0800000000000000
+      internalID: -6292847881599993957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d60097e183ba06e0800000000000000
+      internalID: -1870485324701890857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 264
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb639456876349cd0800000000000000
+      internalID: -2552355198088956228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_47
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 235
+        width: 89
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6b51ee10b5dc00800000000000000
+      internalID: 924838945170877004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_48
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 180
+        width: 212
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e268adb80895df0800000000000000
+      internalID: -190980171031499164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_49
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 244
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3b8bea60fd36810800000000000000
+      internalID: 1757493499398763464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_50
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 251
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74aa4802de0da240800000000000000
+      internalID: 4804512672719217789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_51
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 92
+        width: 171
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09d133c548a06d0800000000000000
+      internalID: -3023458668296433463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_52
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 184
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563bc49a343dccbf0800000000000000
+      internalID: -302634787384020123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 181
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11f329d6d3d96a90800000000000000
+      internalID: -7320086799594557155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_54
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 97
+        width: 89
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7c18c6535318cf0800000000000000
+      internalID: -251861600586053709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_55
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 182
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a5b94c9445ed710800000000000000
+      internalID: 1719904783509969495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_56
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 164
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d7a2867c39895a0800000000000000
+      internalID: -6514294376336032441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_57
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 105
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db2af733af008780800000000000000
+      internalID: -8682922887877088301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_58
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 110
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8a767390ccadf0800000000000000
+      internalID: -167547346539082948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_59
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 34
+        width: 103
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd09bfabdbd9000800000000000000
+      internalID: 44400182125714832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_60
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 7
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3711600cb376cd2d0800000000000000
+      internalID: -3252611324545986189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stick+Animals_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 5
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7aaa59055f0c220800000000000000
+      internalID: 2504271119275173853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

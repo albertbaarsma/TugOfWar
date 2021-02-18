@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Rope.unity
+    path: Assets/Scenes/tree.unity
+    guid: 49dcdfce3542173409264d1c3030917e
+  - enabled: 1
+    path: Assets/Scenes/1stick.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/biggestWeight.unity
+    guid: 48583926846308c4facc1b46ebfca1f8
   m_configObjects: {}

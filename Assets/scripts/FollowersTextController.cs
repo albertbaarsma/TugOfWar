@@ -5,15 +5,16 @@ using TMPro;
 
 public class FollowersTextController : MonoBehaviour
 {
+
+
     public Data data;
     
     private int tick;
 
-    private TextMeshProUGUI followersText;
+    public TextMeshProUGUI followersText;
 
     private void Awake()
     {
-        followersText = gameObject.GetComponent<TextMeshProUGUI>();
         data = new Data();
     }
 

@@ -5,6 +5,8 @@ using UnityEngine;
 public class StickPull : MonoBehaviour
 {
     public float pullStrength;
+    public bool pulling;
+
 
     private Rigidbody2D rb;
 
@@ -15,6 +17,15 @@ public class StickPull : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.velocity = new Vector2(pullStrength * -1, 0);
+        if (pulling)
+        {
+            rb.velocity = new Vector2(pullStrength * -1, 0);
+        }
+    }
+
+    public void StartPulling()
+    {
+        pulling = true;
+        rb.bodyType = RigidbodyType2D.Kinematic;
     }
 }
