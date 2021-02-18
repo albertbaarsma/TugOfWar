@@ -5,7 +5,7 @@ using TMPro;
 
 public class FollowersTextController : MonoBehaviour
 {
-
+    // this file should not exist.. what h
 
     public Data data;
     
@@ -28,8 +28,8 @@ public class FollowersTextController : MonoBehaviour
             if (tick == data.TicksBetweenUpdate)
             {
 
-                data.nFollowers += Random.Range(1, 3);
-                followersText.text = "Followers: " + data.nFollowers;
+                data.nFollowers += Random.Range(1, data.nFollowers/4);
+                followersText.text = "Followers: " + (int)data.nFollowers;
                 data.reposts++;
                 tick = 0;
                 Debug.Log("reposts: " + data.reposts);
