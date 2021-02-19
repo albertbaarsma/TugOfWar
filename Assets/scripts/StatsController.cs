@@ -14,12 +14,40 @@ public class StatsController : MonoBehaviour
     public TextMeshProUGUI followersText;
     public TextMeshProUGUI pullersText;
 
+    public GameObject level2;
+    public GameObject levelExtra;
+    public GameObject levelExtra2;
+    public GameObject level3;
+    public GameObject levelHill;
+
+
     private void Awake()
     {
         data = new Data();
+      
+    }
+
+    private void Start()
+    {
+        int playerPrefPullers = PlayerPrefs.GetInt("pullers");
+
+        if (playerPrefPullers != 1)
+        {
+            Debug.Log("get here?");
+            data.pullers += playerPrefPullers;
+        }
+
+        int playerPrefFollowers = PlayerPrefs.GetInt("followers");
+
+        Debug.Log(playerPrefFollowers);
+
+
+        if (playerPrefFollowers != 1)
+        {
+            data.nFollowers += playerPrefFollowers;
+        }
         pullersText.text = "Pullers: " + data.pullers;
         followersText.text = "Followers: " + data.nFollowers;
-
     }
 
     public void FixedUpdate()
@@ -43,12 +71,14 @@ public class StatsController : MonoBehaviour
 
         // adding followers per for each repost
         data.nFollowers += Random.Range(1, (data.nFollowers/10)+2);
+
+        PlayerPrefs.SetInt("followers", data.nFollowers);
+
         followersText.text = "Followers: " + data.nFollowers;
 
         UpdatePullers();
 
         data.maxReposts = Random.Range(1, (data.nFollowers / 20)+2) +1;
-        Debug.Log(data.maxReposts);
 
         // if the amount of followers is 100, add 1 
     }
@@ -60,8 +90,30 @@ public class StatsController : MonoBehaviour
         if (Random.value < chancePullerJoin)
         {
             data.pullers++;
-            pullersText.text = "Pullers: " + data.pullers;
         }
+
+        if (data.pullers >= 2)
+        {
+            levelExtra.SetActive(true);
+        }
+        if (data.pullers >= 3)
+        {
+            level2.SetActive(true);
+        }
+        if (data.pullers >= 5)
+        {
+            levelExtra2.SetActive(true);
+        }
+        if (data.pullers >= 8)
+        {
+            level3.SetActive(true);
+        }
+        if (data.pullers >= 20)
+        {
+            levelHill.SetActive(true);
+        }
+        pullersText.text = "Pullers: " + data.pullers;
+        PlayerPrefs.SetInt("pullers", data.pullers);
     }
 
     public void AddFollowers(int modifier = 3)
@@ -73,8 +125,18 @@ public class StatsController : MonoBehaviour
 
     public void CallFriend()
     {
-        if (Random.value < chancePullerJoin*10*data.pullers)
-            data.pullers++;
+        data.pullers++;
+        UpdatePullers();
     }
 
+    public void ResetData()
+    {
+        PlayerPrefs.DeleteAll();
+        data = new Data();
+        data.reposts = 3;
+        data.maxReposts = 3;
+
+        pullersText.text = "Pullers: " + data.pullers;
+        followersText.text = "Followers: " + data.nFollowers;
+    }
 }

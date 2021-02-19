@@ -10,10 +10,7 @@ public class LevelLoader : MonoBehaviour
     public Animator transition;
     public float transitionTime = 1f;
 
-
     public static LevelLoader instance;
-
-    public GameObject player;
 
     public void LoadNextLevel()
     {

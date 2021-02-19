@@ -14,7 +14,7 @@ public class Data
 
     public Data()
     {
-        nFollowers = 0;
+        nFollowers = 1;
         reposts = 0;
         maxReposts = 3;
         TicksBetweenUpdate = 50;

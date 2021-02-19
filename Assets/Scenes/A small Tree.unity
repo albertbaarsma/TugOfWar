@@ -736,7 +736,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.26177585, y: 0.011009812}
+  m_Offset: {x: 0.6928166, y: -0.4850936}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -747,7 +747,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2.502241, y: 2.710584}
+  m_Size: {x: 1.6401594, y: 1.7183771}
   m_EdgeRadius: 0
 --- !u!114 &1901071533
 MonoBehaviour:
@@ -898,6 +898,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelLoader
       objectReference: {fileID: 0}
+    - target: {fileID: 5475654128133213621, guid: 6d0f2f72bd904434f95c3dfb944faab2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5475654128133213622, guid: 6d0f2f72bd904434f95c3dfb944faab2, type: 3}
       propertyPath: player
       value: 
@@ -1017,9 +1021,17 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 5924043588905633138, guid: bef239a0a072c5046890f8abd84f9de5, type: 3}
+      propertyPath: eventOnPlayerTouch.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5924043588905633138, guid: bef239a0a072c5046890f8abd84f9de5, type: 3}
       propertyPath: eventOnPlayerTouch.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 767078514}
+    - target: {fileID: 5924043588905633138, guid: bef239a0a072c5046890f8abd84f9de5, type: 3}
+      propertyPath: eventOnPlayerTouch.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: LoadLevelByIndex
+      objectReference: {fileID: 0}
     - target: {fileID: 5924043588905633139, guid: bef239a0a072c5046890f8abd84f9de5, type: 3}
       propertyPath: m_RootOrder
       value: 10
@@ -1080,6 +1092,10 @@ PrefabInstance:
     - target: {fileID: 6225993754268538228, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 6225993754268538228, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6225993754268538232, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_Pivot.x
