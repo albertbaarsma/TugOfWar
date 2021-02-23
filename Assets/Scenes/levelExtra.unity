@@ -570,8 +570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55cd1e5b64b749459494b448788afd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pullStrength: 0.45
-  pulling: 1
+  pullStrength: -0.05
 --- !u!4 &309793284
 Transform:
   m_ObjectHideFlags: 0
@@ -1486,6 +1485,18 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5411342103719505869, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: stick.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5411342103719505869, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: stick.Array.data[0]
+      value: 
+      objectReference: {fileID: 1901071527}
+    - target: {fileID: 5411342103719505869, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: stick.Array.data[1]
+      value: 
+      objectReference: {fileID: 309793278}
     - target: {fileID: 6225993754268538228, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -1592,7 +1603,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6225993755245169774, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.0000038146973
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6225993755245169775, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_sharedMaterial
@@ -2112,8 +2123,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55cd1e5b64b749459494b448788afd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pullStrength: 0.45
-  pulling: 1
+  pullStrength: -0.05
 --- !u!1 &1902757301 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6225993755245169773, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}

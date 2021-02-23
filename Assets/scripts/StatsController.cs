@@ -108,7 +108,7 @@ public class StatsController : MonoBehaviour
         {
             level3.SetActive(true);
         }
-        if (data.pullers >= 20)
+        if (data.pullers >= 12)
         {
             levelHill.SetActive(true);
         }

@@ -761,8 +761,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55cd1e5b64b749459494b448788afd0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pullStrength: 1.5
-  pulling: 0
+  pullStrength: 0
 --- !u!1 &1983374365 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6225993755245169773, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
@@ -1089,6 +1088,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5411342103719505869, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: stick.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5411342103719505869, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: stick.Array.data[0]
+      value: 
+      objectReference: {fileID: 1901071527}
     - target: {fileID: 6225993754268538228, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -1185,5 +1192,17 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1901071533}
+    - target: {fileID: 6225993755245169773, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: m_Name
+      value: succesText
+      objectReference: {fileID: 0}
+    - target: {fileID: 6225993755245169773, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6225993755245169775, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ec737565430ccd0428ba241d02ce0afc, type: 3}
